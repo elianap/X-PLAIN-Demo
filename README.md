@@ -1,4 +1,4 @@
-# LACE Demo
+# X-PLAIN Demo
 
 ## Installation
 
