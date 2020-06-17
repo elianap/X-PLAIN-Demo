@@ -1,4 +1,15 @@
 # X-PLAIN Demo
+X-PLAIN is an interactive tool that allows human-in-the-loop inspection of the decision-making process of machine
+learning models.
+
+* Read the **[full paper](https://dl.acm.org/doi/pdf/10.1145/3318464.3384710)**.
+* Watch the **[demonstration video](https://dl.acm.org/doi/pdf/10.1145/3318464.3384710)**.
+
+**[Bring Your Own Data to X-PLAIN.](https://dl.acm.org/doi/pdf/10.1145/3318464.3384710)**
+Pastor, Eliana, and Elena Baralis. 
+*Proceedings of the 2020 ACM SIGMOD International Conference on Management of Data. 2020.*
+
+![teaser figure](X-PLAIN_teaser.png)
 
 ## Installation
 
@@ -31,4 +42,23 @@ npm install # Only needed on the first run
 npm start
 ```
 Visit `localhost:3000` in a browser.
-# X-PLAIN_Demo
+
+## Citation
+```
+@inproceedings{pastor2020xplain,
+author = {Pastor, Eliana and Baralis, Elena},
+title = {Bring Your Own Data to X-PLAIN},
+year = {2020},
+isbn = {9781450367356},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3318464.3384710},
+doi = {10.1145/3318464.3384710},
+booktitle = {Proceedings of the 2020 ACM SIGMOD International Conference on Management of Data},
+pages = {2805–2808},
+numpages = {4},
+keywords = {interpretability, prediction explanation, local rules},
+location = {Portland, OR, USA},
+series = {SIGMOD ’20}
+}
+```
