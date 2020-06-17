@@ -69,4 +69,4 @@ series = {SIGMOD ’20}
 
 [eliana]: https://smartdata.polito.it/members/eliana-pastor/ "Eliana Pastor"
 [baralis]: https://dbdmg.polito.it/wordpress/people/elena-baralis/ "Elena Baralis"
-[cognolato]: https://github.com/mrandri19 "Andrea Cognolato"
+[cognolato]: https://mrandri19.github.io/ "Andrea Cognolato"
