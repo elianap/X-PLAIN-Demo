@@ -3,7 +3,7 @@ X-PLAIN is an interactive tool that allows human-in-the-loop inspection of the d
 learning models.
 
 * Read the **[full paper](https://dl.acm.org/doi/pdf/10.1145/3318464.3384710)**.
-* Watch the **[demonstration video](https://dl.acm.org/doi/pdf/10.1145/3318464.3384710)**.
+* Watch the **[demonstration video](http://bit.ly/X-PLAIN-Demo-SIGMOD2020)**.
 
 **[Bring Your Own Data to X-PLAIN.](https://dl.acm.org/doi/pdf/10.1145/3318464.3384710)**
 Pastor, Eliana, and Elena Baralis. 
