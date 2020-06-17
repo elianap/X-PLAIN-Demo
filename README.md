@@ -15,13 +15,13 @@ Pastor, Eliana, and Elena Baralis.
 
 ```shell
 # Create a virtualenv folder
-mkdir -p ~/venv-environments/lace
+mkdir -p ~/venv-environments/x-plain
 
 # Create a new virtualenv in that folder
-python3 -m venv ~/venv-environments/lace
+python3 -m venv ~/venv-environments/x-plain
 
 # Activate the virtualenv
-source ~/venv-environments/lace/bin/activate
+source ~/venv-environments/x-plain/bin/activate
 
 # Install deps
 pip install flask numpy pandas scipy snapshottest scikit-learn matplotlib seaborn 
