@@ -43,6 +43,10 @@ npm start
 ```
 Visit `localhost:3000` in a browser.
 
+## Contributors
+
+[Eliana Pastor][eliana], [Elena Baralis][baralis] and [Andrea Congolato][cognolato] (interface design).
+
 ## Citation
 ```
 @inproceedings{pastor2020xplain,
@@ -62,3 +66,7 @@ location = {Portland, OR, USA},
 series = {SIGMOD ’20}
 }
 ```
+
+[eliana]: https://smartdata.polito.it/members/eliana-pastor/ "Eliana Pastor"
+[baralis]: https://dbdmg.polito.it/wordpress/people/elena-baralis/ "Elena Baralis"
+[cognolato]: https://github.com/mrandri19 "Andrea Cognolato"
